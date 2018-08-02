@@ -8,7 +8,7 @@ connection: "red_flight"
 include: "*.view"
 
 # include all the dashboards
-include: "*.dashboard"
+#include: "*.dashboard"
 
 explore: accidents {}
 
