@@ -1,10 +1,7 @@
 connection: "red_flight"
 
-# test comment
+# going to commit this comment and try to revert
 
-# test comment 2
-
-# include all the views
 include: "*.view"
 
 # include all the dashboards
